@@ -1,16 +1,16 @@
 {
   "cloudcaptain": {
-    "version": "1.22",
-    "file": "cloudcaptain-1.22.apk",
-    "size": 35505776,
-    "sha256": "32804ab18d882410e45bf717b11f94735cbf4c5e235ba1f99dac37f28286d7b1",
+    "version": "1.23",
+    "file": "cloudcaptain-1.23.apk",
+    "size": 35506164,
+    "sha256": "2773f2d7f6e2790f29f67580411ebfcfabac7f9b3226ecdaa3a99ac42f8ce2fb",
     "date": "2026-11-26"
   },
   "cloudsummit": {
-    "version": "1.22",
-    "file": "cloudsummit-1.22.apk",
-    "size": 35495636,
-    "sha256": "3abe6b88e1160a93eedec99588abd5159ebf651aff2ef5a09675f6546f701580",
+    "version": "1.23",
+    "file": "cloudsummit-1.23.apk",
+    "size": 35496020,
+    "sha256": "3ff756c27ebd03897151da91387173d801f932b55b49c1cb9ff1136a57c8a111",
     "date": "2026-11-26"
   }
 }
